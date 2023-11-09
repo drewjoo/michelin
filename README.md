@@ -39,9 +39,12 @@
 - [가미우동](https://map.naver.com/v5/entry/place/13390151?c=15.76,0,0,0,dh)
 > #맑은국물 #튀김
 
-### 남영동/문배동
-- [문배동육칼](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
-> 육개장칼국수
+### 상암동
+- [김치도가 상암점](https://map.naver.com/v5/search/%EA%B9%80%EC%B9%98%EB%8F%84%EA%B0%80/place/1016677361?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)
+> #김치찌개
+
+- [화포식당](https://map.naver.com/p/entry/place/38349760?c=14.60,0,0,0,dh)
+> #생갈비 #삼겹살 
 
 ### 한남동
 - [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
@@ -51,7 +54,11 @@
 > #토마토치즈제육 
 
 - [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
-> #피자자
+> #피자
+> 
+### 남영동/문배동
+- [문배동육칼](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
+> 육개장칼국수
 
 ### 을지로/명동/시청역
 - [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
