@@ -21,7 +21,7 @@
 - [카츠업](https://map.naver.com/p/entry/place/1157398737?c=15.26,0,0,0,dh)👍👍👍
 > #돈까스 #육향
 
-- [캘리인더](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
+- [캘리인더볼](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
 > #데리야끼 #치킨  
 
 - [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true) :hamburger::hamburger:
@@ -30,9 +30,28 @@
 - [부탄츄 홍대본점](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
 > #농밀한국물 
 
-- [혼카츠](https://map.naver.com/v5/entry/place/34228290?c=13.62,0,0,0,동
+- [혼카츠](https://map.naver.com/v5/entry/place/34228290?c=13.62,0,0,0,dh&isCorrectAnswer=true)
+> #돈까스 #소금 
+
+- [고토히라우동](https://map.naver.com/v5/entry/place/33399701?c=14.01,0,0,0,dh)
+> #말랑말랑한식감 #양파진액육수 #유부초밥
+
+- [가미우동](https://map.naver.com/v5/entry/place/13390151?c=15.76,0,0,0,dh)
+> #맑은국물 #튀김
+
+### 남영동/문배동
 - [문배동육칼](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
 > 육개장칼국수
+
+### 한남동
+- [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
+> #타코 #께사디아 #치미창가 #부리또 #멕시코
+
+- [밥한끼](https://map.naver.com/v5/search/%EB%B0%A5%ED%95%9C%EB%81%BC/place/1530497257?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp) :+1:
+> #토마토치즈제육 
+
+- [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
+> #피자자
 
 ### 을지로/명동/시청역
 - [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
