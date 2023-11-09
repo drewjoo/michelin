@@ -18,6 +18,9 @@
 - [편의방](https://map.naver.com/v5/entry/place/36667682?c=12.71,0,0,0,dh&isCorrectAnswer=true) :+1::+1::+1:
 > #짬뽕 #생선찐만두 #겨자소스
 
+- [캘리인더](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
+> #데리야끼 #치킨  
+
 - [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true) :hamburger::hamburger:
 > #육즙 #버터향 
 
@@ -34,6 +37,9 @@
 - [화포식당 상암점](https://map.naver.com/p/entry/place/38349760?c=12.00,0,0,0,dh)
 > #생갈비 #삼겹살
 
+- [김치도가 상암점](https://map.naver.com/v5/search/%EA%B9%80%EC%B9%98%EB%8F%84%EA%B0%80/place/1016677361?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)
+> #김치찌개 
+
 ### 한남동
 - [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
 > #타코 #치미창가 #부리또 #멕시코
@@ -44,6 +50,25 @@
 - [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
 > #피자
 
+### 을지로/명동
+- [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
+> #설렁탕 #고기 #깍뚜기 
+
+- [안동장](https://map.naver.com/v5/entry/place/11677524?c=15.81,0,0,0,dh)
+> #백짬뽕 #굴짬뽕 
+
+- [대련집](https://map.naver.com/v5/entry/place/11850242?c=15.52,0,0,0,dh)
+> #칼국수 #수육 #양많음 
+
+- [명동교자 본점](https://map.naver.com/v5/entry/place/11592650?c=14.94,0,0,0,dh) :+1::+1:
+> #칼국수 #밥추가 #김치
+
+- [개화](https://map.naver.com/p/entry/place/11618456?c=15.00,0,0,0,dh)
+> #짜장면 #화교  
+
+- [포엠](https://map.naver.com/p/entry/place/19923805?c=15.50,0,0,0,dh)
+> #분위기 #복층 
+
 ### 신당동
 - [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)
 > #떡볶이
@@ -51,6 +76,10 @@
 ### 신사동
 - [패티앤베지스 신사](https://map.naver.com/v5/entry/place/1348101379?c=13.14,0,0,0,dh)
 > #수제버거
+
+### 삼성동
+- [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh) :hamburger:
+> #치즈버거 #가성비 #짭조름함
 
 ### 수유동
 - [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)
