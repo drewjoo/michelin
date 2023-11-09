@@ -27,6 +27,9 @@
 - [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true) :hamburger::hamburger:
 > #육즙 #버터향 
 
+- [부탄츄 홍대본점](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
+> #농밀한국물 
+
 - [혼카츠](https://map.naver.com/v5/entry/place/34228290?c=13.62,0,0,0,dh&isCorrectAnswer=true)
 > #돈까스 #소금 #은은한육향 #쫄깃한식감
 
