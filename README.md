@@ -119,4 +119,47 @@
 - [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
 > #대패삼겹살 #볶음밥
 
+### 인하대 
+- [닭살부부](https://map.naver.com/v5/entry/place/20550561?c=15.91,0,0,0,dh) :beer:
+> #목삼겹 #파무침 #맥주
+
+- [아웃닭](https://map.naver.com/v5/entry/place/37923868?c=10.41,0,0,0,dh&isCorrectAnswer=true)
+> #치킨 #맥주
+
+- [신촌설렁탕](https://map.naver.com/v5/entry/place/38351458?c=18.4,0,0,0,dh)
+> #육회비빔밥
+
+- [산쪼메 인하대점](https://map.naver.com/v5/entry/place/21497659?c=18.4,0,0,0,dh)
+> #라멘 #가쿠니동
+
+- [가메이](https://map.naver.com/v5/entry/place/37688208?c=18.11,0,0,0,dh)
+> #회덮밥
+
+- [맛사랑](https://map.naver.com/v5/search/%EB%A7%9B%EC%82%AC%EB%9E%91/place/36004062?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)
+> #제육 #돈까스 #순두부 #생고기김치찌깨 #계란말이
+
+- [궁중보쌈](https://map.naver.com/v5/entry/place/623497804?c=18.4,0,0,0,dh)
+> #보쌈
+
+- [촌닭 인하대점](https://map.naver.com/v5/entry/place/1364013005?c=18.4,0,0,0,dh)
+> #찜닭 #닭죽 
+
+- [금산양꼬치](https://map.naver.com/v5/entry/place/37944089?c=13,0,0,0,dh&isCorrectAnswer=true) :beer:
+> #양꼬치 #맥주 #꿔바로우
+
+- [영지숯불갈비](https://map.naver.com/v5/entry/place/38548187?c=17.51,0,0,0,dh)
+> #돼지갈비
+
+- [신흥갈비](https://map.naver.com/v5/entry/place/1192755747?c=17.51,0,0,0,dh)
+> #생갈비 #양념갈비 #맥주 #소주
+
+- [형제닭꼬치 인하대점](https://map.naver.com/v5/search/%EB%8B%AD%EA%BC%AC%EC%B9%98/place/1540378942?c=17.51,0,0,0,dh)
+> #닭꼬치 #염통
+
+- [미식당](https://map.naver.com/v5/entry/place/1034790169?c=14.94,0,0,0,dh)
+> #양식
+
+-[가마솥순대국](https://map.naver.com/p/search/%EC%88%9C%EB%8C%80%EA%B5%AD/place/1411804150?c=16.59,0,0,0,dh&placePath=%3Fentry%3Dbmp)
+> #순대국 #수육
+
 
