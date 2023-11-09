@@ -50,7 +50,7 @@
 - [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
 > #피자
 
-### 을지로/명동
+### 을지로/명동/시청역
 - [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
 > #설렁탕 #고기 #깍뚜기 
 
@@ -68,6 +68,9 @@
 
 - [포엠](https://map.naver.com/p/entry/place/19923805?c=15.50,0,0,0,dh)
 > #분위기 #복층 
+
+- [진주회관](https://map.naver.com/p/entry/place/11679660?c=14.00,0,0,0,dh)
+> #콩국수
 
 ### 신당동
 - [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)
