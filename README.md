@@ -159,7 +159,7 @@
 - [미식당](https://map.naver.com/v5/entry/place/1034790169?c=14.94,0,0,0,dh)
 > #양식
 
--[가마솥순대국](https://map.naver.com/p/search/%EC%88%9C%EB%8C%80%EA%B5%AD/place/1411804150?c=16.59,0,0,0,dh&placePath=%3Fentry%3Dbmp)
+- [가마솥순대국](https://map.naver.com/p/search/%EC%88%9C%EB%8C%80%EA%B5%AD/place/1411804150?c=16.59,0,0,0,dh&placePath=%3Fentry%3Dbmp)
 > #순대국 #수육
 
 
