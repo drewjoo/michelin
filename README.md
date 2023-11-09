@@ -18,7 +18,7 @@
 - [편의방](https://map.naver.com/v5/entry/place/36667682?c=12.71,0,0,0,dh&isCorrectAnswer=true)👍👍
 > #짬뽕 #생선찐만두 #겨자소스
 
--[카츠업](https://map.naver.com/p/entry/place/1157398737?c=15.26,0,0,0,dh)👍👍👍
+- [카츠업](https://map.naver.com/p/entry/place/1157398737?c=15.26,0,0,0,dh)👍👍👍
 > #돈까스 #육향
 
 - [캘리인더](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
