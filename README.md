@@ -30,6 +30,10 @@
 - [가미우동](https://map.naver.com/v5/entry/place/13390151?c=15.76,0,0,0,dh)
 > #맑은국물 #튀김 #달걀
 
+### 상암동
+- [화포식당 상암점](https://map.naver.com/p/entry/place/38349760?c=12.00,0,0,0,dh)
+> #생갈비 #삼겹살
+
 ### 한남동
 - [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
 > #타코 #치미창가 #부리또 #멕시코
@@ -38,7 +42,15 @@
 > #토마토치즈제육 
 
 - [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
-> #피자 
+> #피자
+
+### 신당동
+- [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)
+> #떡볶이
+
+### 신사동
+- [패티앤베지스 신사](https://map.naver.com/v5/entry/place/1348101379?c=13.14,0,0,0,dh)
+> #수제버거
 
 ### 수유동
 - [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)
@@ -55,8 +67,21 @@
 - [숯골그집쭈꾸미상동점](https://map.naver.com/v5/entry/place/19380559?c=15,0,0,0,dh) :+1:
 > #쭈꾸미 #해물파전
 
-## 수원
+### 수원
 - [부추삼겹살](https://map.naver.com/v5/entry/place/36615363?c=13.27,0,0,0,dh) :+1:
 > #삼겹살 #부추 #소주
+
+### 강릉
+- [육반장 본점](https://map.naver.com/v5/entry/place/33082487?c=15.88,0,0,0,dh&isCorrectAnswer=true) :+1:
+> #육개장 #칼국수
+
+- [강릉가자 강릉본점](https://map.naver.com/v5/entry/place/1519921736?c=13.93,0,0,0,dh&isCorrectAnswer=true)
+> #족발 #보쌈
+
+- [춘천1번지달갈비](https://map.naver.com/v5/entry/place/15294094?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
+> #닭갈비 #우동사리
+
+- [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
+> #대패삼겹살 #볶음밥
 
 
