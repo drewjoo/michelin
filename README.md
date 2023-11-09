@@ -15,8 +15,11 @@
 ---
 
 ### 홍대/연남/연희
-- [편의방](https://map.naver.com/v5/entry/place/36667682?c=12.71,0,0,0,dh&isCorrectAnswer=true) :+1::+1::+1:
+- [편의방](https://map.naver.com/v5/entry/place/36667682?c=12.71,0,0,0,dh&isCorrectAnswer=true)👍👍
 > #짬뽕 #생선찐만두 #겨자소스
+
+-[카츠업](https://map.naver.com/p/entry/place/1157398737?c=15.26,0,0,0,dh)👍👍👍
+> #돈까스 #육향
 
 - [캘리인더](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
 > #데리야끼 #치킨  
@@ -47,7 +50,7 @@
 - [밥한끼](https://map.naver.com/v5/search/%EB%B0%A5%ED%95%9C%EB%81%BC/place/1530497257?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp) :+1:
 > #토마토치즈제육 
 
-- [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
+- [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh)👍👍
 > #피자
 
 ### 을지로/명동/시청역
