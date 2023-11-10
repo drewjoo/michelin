@@ -67,6 +67,9 @@
 - [안동장](https://map.naver.com/v5/entry/place/11677524?c=15.81,0,0,0,dh)
 > #백짬뽕 #굴짬뽕 
 
+- [오구반점](https://map.naver.com/p/entry/place/11728195?c=15.00,0,0,0,dh)
+> #군만두 
+
 - [대련집](https://map.naver.com/v5/entry/place/11850242?c=15.52,0,0,0,dh)
 > #칼국수 #수육 #양많음 
 
