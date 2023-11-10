@@ -46,7 +46,7 @@
 - [화포식당](https://map.naver.com/p/entry/place/38349760?c=14.60,0,0,0,dh)
 > #생갈비 #삼겹살 
 
-### 한남동
+### 한남동/이태원
 - [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
 > #타코 #께사디아 #치미창가 #부리또 #멕시코
 
@@ -55,7 +55,13 @@
 
 - [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
 > #피자
-> 
+
+- [한남동한방통닭](https://map.naver.com/p/entry/place/32794391?c=13.89,0,0,0,dh)
+> #옛날통닭
+
+-[카사블랑카 샌드위치](https://map.naver.com/p/entry/place/32283786?c=13.89,0,0,0,dh)
+> #모로코 #샌드위치
+
 ### 남영동/문배동
 - [문배동육칼](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
 > 육개장칼국수
