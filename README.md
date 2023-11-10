@@ -59,7 +59,7 @@
 - [한남동한방통닭](https://map.naver.com/p/entry/place/32794391?c=13.89,0,0,0,dh)
 > #옛날통닭
 
--[카사블랑카 샌드위치](https://map.naver.com/p/entry/place/32283786?c=13.89,0,0,0,dh)
+- [카사블랑카 샌드위치](https://map.naver.com/p/entry/place/32283786?c=13.89,0,0,0,dh)
 > #모로코 #샌드위치
 
 ### 남영동/문배동
