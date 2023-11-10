@@ -97,6 +97,10 @@
 - [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh) :hamburger:
 > #치즈버거 #가성비 #짭조름함
 
+### 노량진
+- [사이공리](https://map.naver.com/p/entry/place/11728195?c=15.00,0,0,0,dh)
+> #쌀국수 #반미
+
 ### 수유동
 - [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)
 > #돼지갈비
@@ -112,7 +116,7 @@
 - [숯골그집쭈꾸미상동점](https://map.naver.com/v5/entry/place/19380559?c=15,0,0,0,dh) :+1:
 > #쭈꾸미 #해물파전
 
-### 수원
+### 수원역
 - [부추삼겹살](https://map.naver.com/v5/entry/place/36615363?c=13.27,0,0,0,dh) :+1:
 > #삼겹살 #부추 #소주
 
