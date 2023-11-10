@@ -126,6 +126,9 @@
 - [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
 > #대패삼겹살 #볶음밥
 
+- [테라로사 커피공장 강릉본점](https://map.naver.com/p/entry/place/10968214?c=13.99,0,0,0,dh)
+> #커피 #공장형 
+
 ### 인하대 
 - [닭살부부](https://map.naver.com/v5/entry/place/20550561?c=15.91,0,0,0,dh) :beer:
 > #목삼겹 #파무침 #맥주
