@@ -99,9 +99,12 @@
 - [패티앤베지스 신사](https://map.naver.com/v5/entry/place/1348101379?c=13.14,0,0,0,dh)
 > #수제버거
 
-### 삼성동
+### 삼성동/대치동
 - [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh) :hamburger:
 > #치즈버거 #가성비 #짭조름함
+
+- [농민백암순대 본점](https://map.naver.com/p/entry/place/13149768?c=13.70,0,0,0,dh)
+> #순대국 
 
 ### 노량진
 - [사이공리](https://map.naver.com/p/entry/place/11728195?c=15.00,0,0,0,dh)
