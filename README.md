@@ -66,6 +66,10 @@
 - [문배동육칼](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
 > #육개장칼국수
 
+### 광화문
+- [청진옥](https://map.naver.com/p/entry/place/13544101?c=16.28,0,0,0,dh)
+> #해장국 
+
 ### 을지로/명동/시청역
 - [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
 > #설렁탕 #고기 #깍뚜기 
