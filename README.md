@@ -107,6 +107,13 @@
 - [사이공리](https://map.naver.com/p/entry/place/11728195?c=15.00,0,0,0,dh)
 > #쌀국수 #반미
 
+### 돈암동/성신여대
+- [버거파크](https://map.naver.com/p/entry/place/36084746?c=15.37,0,0,0,dh)
+> #머쉬룸 #salty
+
+- [오백집모자족발](https://map.naver.com/p/entry/place/13574619?c=14.94,0,0,0,dh)
+> #족발 #보쌈 
+
 ### 수유동
 - [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)
 > #돼지갈비
