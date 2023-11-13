@@ -39,6 +39,9 @@
 - [가미우동](https://map.naver.com/v5/entry/place/13390151?c=15.76,0,0,0,dh)
 > #맑은국물 #튀김
 
+- [로렌드론](https://map.naver.com/p/entry/place/1386833963?c=15.00,0,0,0,dh)
+> #집중 #분위기 
+
 ### 상암동
 - [김치도가 상암점](https://map.naver.com/v5/search/%EA%B9%80%EC%B9%98%EB%8F%84%EA%B0%80/place/1016677361?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)
 > #김치찌개
@@ -90,6 +93,9 @@
 
 - [포엠](https://map.naver.com/p/entry/place/19923805?c=15.50,0,0,0,dh)
 > #분위기 #복층 
+
+- [호랑이](https://map.naver.com/p/entry/place/1386833963?c=15.00,0,0,0,dh)
+> #올드스타일 #카페 
 
 - [진주회관](https://map.naver.com/p/entry/place/11679660?c=14.00,0,0,0,dh)
 > #콩국수
