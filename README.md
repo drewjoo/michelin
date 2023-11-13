@@ -62,7 +62,22 @@
 - [한남동한방통닭](https://map.naver.com/p/entry/place/32794391?c=13.89,0,0,0,dh)
 > #옛날통닭
 
-- [카사블랑카 샌드위대
+- [카사블랑카 샌드위치](https://map.naver.com/p/entry/place/32283786?c=15.00,0,0,0,dh)
+> #샌드위치 
+
+### 을지로/명동/시청역
+
+- [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
+> #설렁탕 #고기 #깍두기 
+
+- [안동장](https://map.naver.com/v5/entry/place/11677524?c=15.81,0,0,0,dh)
+> #백짬뽕 #굴짬뽕
+
+- [오구반점](https://map.naver.com/p/entry/place/11728195?c=15.90,0,0,0,dh)
+> #군만두 
+
+- [청와옥](https://map.naver.com/p/entry/place/1319831936?c=16.51,0,0,0,dh)
+> #순대국 #수육 #순대 
 
 - [대련집](https://map.naver.com/v5/entry/place/11850242?c=15.52,0,0,0,dh)
 > #칼국수 #수육 #양많음 
