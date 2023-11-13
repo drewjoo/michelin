@@ -1,8 +1,8 @@
 # michelin
+맛집 리뷰를 위한 repository
 
 <img src="https://pbs.twimg.com/profile_images/1115632604626259973/kMoP8dTJ_400x400.png" width =250>
 
-맛집 리뷰를 위한 repository
 
 | Number | Score | Description |
 | --: | --: | :-- |
@@ -137,6 +137,16 @@
 - [곤드레이야기](https://map.naver.com/p/entry/place/18610254?c=14.60,0,0,0,dh)
 > #곤드레밥 
 
+### 서현동
+- [호시](https://map.naver.com/p/entry/place/20144643?c=14.93,0,0,0,dh)
+> #모둠초밥
+
+- [수룹타코](https://map.naver.com/p/entry/place/1186923913?c=16.73,0,0,0,dh)
+> #타코 #나쵸 #멕시칸 
+
+- [만강홍](https://map.naver.com/p/search/%EB%A7%8C%EA%B0%95%ED%99%8D?c=15.24,0,0,0,dh)
+> #짬뽕 #탕수육 
+
 ### 부천
 - [숯골그집쭈꾸미상동점](https://map.naver.com/v5/entry/place/19380559?c=15,0,0,0,dh) :+1:
 > #쭈꾸미 #해물파전
@@ -157,6 +167,9 @@
 
 - [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
 > #대패삼겹살 #볶음밥
+
+- [삼교리동치미막국수 강릉본점](https://map.naver.com/p/entry/place/37800217?c=11.87,0,0,0,dh)
+> #막국수 #메밀전 
 
 - [팡파미유](https://map.naver.com/p/search/%ED%8C%A1%ED%8C%8C%EB%AF%B8%EC%9C%A0/place/1202298255?c=16.90,0,0,0,dh&placePath=%3Fentry%3Dbmp)
 > #마늘빵
