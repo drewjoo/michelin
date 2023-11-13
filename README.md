@@ -94,6 +94,10 @@
 - [진주회관](https://map.naver.com/p/entry/place/11679660?c=14.00,0,0,0,dh)
 > #콩국수
 
+### 종각
+- [청진옥](https://map.naver.com/p/entry/place/13544101?c=16.54,0,0,0,dh)
+> #해장국 
+
 ### 신당동
 - [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)
 > #떡볶이
@@ -128,7 +132,7 @@
 > #머쉬룸 #salty
 
 - [쎄쎄](https://map.naver.com/v5/entry/place/13004116?c=13.36,0,0,0,dh&isCorrectAnswer=true) :+1::+1:
-> #짬뽕
+> #진한짬뽕국물 
 
 
 ### 부천
