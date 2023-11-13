@@ -137,6 +137,9 @@
 - [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
 > #대패삼겹살 #볶음밥
 
+- [팡파미유](https://map.naver.com/p/search/%ED%8C%A1%ED%8C%8C%EB%AF%B8%EC%9C%A0/place/1202298255?c=16.90,0,0,0,dh&placePath=%3Fentry%3Dbmp)
+> #마늘빵
+
 - [테라로사 커피공장 강릉본점](https://map.naver.com/p/entry/place/10968214?c=13.99,0,0,0,dh)
 > #커피 #공장형 
 
