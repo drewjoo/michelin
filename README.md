@@ -134,6 +134,8 @@
 - [쎄쎄](https://map.naver.com/v5/entry/place/13004116?c=13.36,0,0,0,dh&isCorrectAnswer=true) :+1::+1:
 > #진한짬뽕국물 
 
+- [곤드레이야기](https://map.naver.com/p/entry/place/18610254?c=14.60,0,0,0,dh)
+> #곤드레밥 
 
 ### 부천
 - [숯골그집쭈꾸미상동점](https://map.naver.com/v5/entry/place/19380559?c=15,0,0,0,dh) :+1:
