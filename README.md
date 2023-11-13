@@ -131,7 +131,7 @@
 - [강릉가자 강릉본점](https://map.naver.com/v5/entry/place/1519921736?c=13.93,0,0,0,dh&isCorrectAnswer=true)
 > #족발 #보쌈
 
-- [춘천1번지달갈비](https://map.naver.com/v5/entry/place/15294094?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
+- [춘천1번지닭갈비](https://map.naver.com/v5/entry/place/15294094?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
 > #닭갈비 #우동사리
 
 - [곽가네시오야끼](https://map.naver.com/v5/entry/place/20264800?c=16.79,0,0,0,dh&isCorrectAnswer=true) 
