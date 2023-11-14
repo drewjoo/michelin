@@ -10,7 +10,7 @@
 | 2. |👍👍| 멀리(=1시간 이내) 찾아 갈 만한 훌륭한 맛집 |
 | 3. |👍👍👍| 다른 곳과 차별화 되는 그 곳만의 특별함이 있는 훌륭한 맛집 |
 
-(👍=☕=🍺)
+(👍=☕=🍞=🍺)
 
 ---
 
@@ -24,11 +24,11 @@
 - [캘리인더볼](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
 > #데리야끼 #치킨  
 
-- [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true) :hamburger::hamburger:
+- [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true)👍
 > #육즙 #버터향 
 
 - [부탄츄 홍대본점](https://map.naver.com/p/entry/place/31801473?c=15.30,0,0,0,dh)
-> #농밀한국물 
+> #농밀한국물 #일본현지 
 
 - [혼카츠](https://map.naver.com/v5/entry/place/34228290?c=13.62,0,0,0,dh&isCorrectAnswer=true)
 > #돈까스 #소금 
@@ -50,13 +50,13 @@
 > #생갈비 #삼겹살 
 
 ### 한남동/이태원 
-- [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh) :+1::+1:
+- [도스타코스 한남동점](https://map.naver.com/v5/entry/place/37761582?c=12.5,0,0,0,dh)👍👍
 > #타코 #께사디아 #치미창가 #부리또 #멕시코
 
-- [밥한끼](https://map.naver.com/v5/search/%EB%B0%A5%ED%95%9C%EB%81%BC/place/1530497257?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp) :+1:
+- [밥한끼](https://map.naver.com/v5/search/%EB%B0%A5%ED%95%9C%EB%81%BC/place/1530497257?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)👍
 > #토마토치즈제육 
 
-- [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh) :+1::+1:
+- [잭슨피자 한남점](https://map.naver.com/v5/entry/place/1836111052?c=15,0,0,0,dh)👍👍
 > #피자
 
 - [다운타우너 한남](https://map.naver.com/p/entry/place/37822450?c=15.33,0,0,0,dh)
@@ -70,7 +70,7 @@
 
 ### 을지로/명동/시청역
 
-- [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh) :+1:
+- [이남장 을지로본점](https://map.naver.com/v5/entry/place/11679393?c=15.81,0,0,0,dh)👍
 > #설렁탕 #고기 #깍두기 
 
 - [안동장](https://map.naver.com/v5/entry/place/11677524?c=15.81,0,0,0,dh)
@@ -85,16 +85,16 @@
 - [대련집](https://map.naver.com/v5/entry/place/11850242?c=15.52,0,0,0,dh)
 > #칼국수 #수육 #양많음 
 
-- [명동교자 본점](https://map.naver.com/v5/entry/place/11592650?c=14.94,0,0,0,dh) :+1::+1:
+- [명동교자 본점](https://map.naver.com/v5/entry/place/11592650?c=14.94,0,0,0,dh)
 > #칼국수 #밥추가 #김치
 
 - [개화](https://map.naver.com/p/entry/place/11618456?c=15.00,0,0,0,dh)
 > #짜장면 #화교  
 
-- [포엠](https://map.naver.com/p/entry/place/19923805?c=15.50,0,0,0,dh)
+- [포엠](https://map.naver.com/p/entry/place/19923805?c=15.50,0,0,0,dh)☕
 > #분위기 #복층 
 
-- [호랑이](https://map.naver.com/p/entry/place/1386833963?c=15.00,0,0,0,dh)
+- [호랑이](https://map.naver.com/p/entry/place/1386833963?c=15.00,0,0,0,dh)☕
 > #올드스타일 #카페 
 
 - [진주회관](https://map.naver.com/p/entry/place/11679660?c=14.00,0,0,0,dh)
@@ -113,7 +113,7 @@
 > #수제버거
 
 ### 삼성동/대치동
-- [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh) :hamburger:
+- [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh)👍
 > #치즈버거 #가성비 #짭조름함
 
 - [농민백암순대 본점](https://map.naver.com/p/entry/place/13149768?c=13.70,0,0,0,dh)
@@ -137,7 +137,7 @@
 - [버거파크 수유점](https://map.naver.com/v5/entry/place/1532748458?c=13.36,0,0,0,dh&isCorrectAnswer=true)
 > #머쉬룸 #salty
 
-- [쎄쎄](https://map.naver.com/v5/entry/place/13004116?c=13.36,0,0,0,dh&isCorrectAnswer=true) :+1::+1:
+- [쎄쎄](https://map.naver.com/v5/entry/place/13004116?c=13.36,0,0,0,dh&isCorrectAnswer=true)
 > #진한짬뽕국물 
 
 - [곤드레이야기](https://map.naver.com/p/entry/place/18610254?c=14.60,0,0,0,dh)
@@ -162,7 +162,7 @@
 > #삼겹살 #부추 #소주
 
 ### 강릉
-- [육반장 본점](https://map.naver.com/v5/entry/place/33082487?c=15.88,0,0,0,dh&isCorrectAnswer=true) :+1:
+- [육반장 본점](https://map.naver.com/v5/entry/place/33082487?c=15.88,0,0,0,dh&isCorrectAnswer=true)👍
 > #육개장 #칼국수
 
 - [강릉가자 강릉본점](https://map.naver.com/v5/entry/place/1519921736?c=13.93,0,0,0,dh&isCorrectAnswer=true)
@@ -177,14 +177,14 @@
 - [삼교리동치미막국수 강릉본점](https://map.naver.com/p/entry/place/37800217?c=11.87,0,0,0,dh)
 > #막국수 #메밀전 
 
-- [팡파미유](https://map.naver.com/p/search/%ED%8C%A1%ED%8C%8C%EB%AF%B8%EC%9C%A0/place/1202298255?c=16.90,0,0,0,dh&placePath=%3Fentry%3Dbmp)
+- [팡파미유](https://map.naver.com/p/search/%ED%8C%A1%ED%8C%8C%EB%AF%B8%EC%9C%A0/place/1202298255?c=16.90,0,0,0,dh&placePath=%3Fentry%3Dbmp)🍞
 > #마늘빵
 
-- [테라로사 커피공장 강릉본점](https://map.naver.com/p/entry/place/10968214?c=13.99,0,0,0,dh)
+- [테라로사 커피공장 강릉본점](https://map.naver.com/p/entry/place/10968214?c=13.99,0,0,0,dh)☕☕
 > #커피 #공장형 
 
 ### 인하대 
-- [닭살부부](https://map.naver.com/v5/entry/place/20550561?c=15.91,0,0,0,dh) :beer:
+- [닭살부부](https://map.naver.com/v5/entry/place/20550561?c=15.91,0,0,0,dh)🍺
 > #목삼겹 #파무침 #맥주
 
 - [아웃닭](https://map.naver.com/v5/entry/place/37923868?c=10.41,0,0,0,dh&isCorrectAnswer=true)
@@ -208,7 +208,7 @@
 - [촌닭 인하대점](https://map.naver.com/v5/entry/place/1364013005?c=18.4,0,0,0,dh)
 > #찜닭 #닭죽 
 
-- [금산양꼬치](https://map.naver.com/v5/entry/place/37944089?c=13,0,0,0,dh&isCorrectAnswer=true) :beer:
+- [금산양꼬치](https://map.naver.com/v5/entry/place/37944089?c=13,0,0,0,dh&isCorrectAnswer=true) 
 > #양꼬치 #맥주 #꿔바로우
 
 - [영지숯불갈비](https://map.naver.com/v5/entry/place/38548187?c=17.51,0,0,0,dh)
