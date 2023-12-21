@@ -21,7 +21,7 @@
 - [카츠업](https://map.naver.com/p/entry/place/1157398737?c=15.26,0,0,0,dh)👍👍👍
 > #돈까스 #육향
 
-- [캘리인더볼](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)
+- [캘리인더볼](https://map.naver.com/p/entry/place/36874014?c=14.07,0,0,0,dh)👍
 > #데리야끼 #치킨  
 
 - [버거리 홍대점](https://map.naver.com/v5/entry/place/1444550523?c=14.36,0,0,0,dh&isCorrectAnswer=true)👍
@@ -105,7 +105,7 @@
 > #해장국 
 
 ### 신당동
-- [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)
+- [마복림떡볶이](https://map.naver.com/v5/entry/place/38405139?c=12.91,0,0,0,dh&isCorrectAnswer=true)👍👍
 > #떡볶이
 
 ### 신사동
@@ -116,6 +116,9 @@
 - [크라이치즈버거 삼성역점](https://map.naver.com/v5/entry/place/587929920?c=15.37,0,0,0,dh)👍
 > #치즈버거 #가성비 #짭조름함
 
+- [중앙해장](https://map.naver.com/p/entry/place/37703543?c=13.00,0,0,0,dh)
+> #곱창전골 
+
 - [농민백암순대 본점](https://map.naver.com/p/entry/place/13149768?c=13.70,0,0,0,dh)
 > #순대국 
 
@@ -124,14 +127,14 @@
 > #쌀국수 #반미
 
 ### 돈암동/성신여대
-- [버거파크](https://map.naver.com/p/entry/place/36084746?c=15.37,0,0,0,dh)
+- [버거파크](https://map.naver.com/p/entry/place/36084746?c=15.37,0,0,0,dh)👍
 > #머쉬룸 #salty
 
 - [오백집모자족발](https://map.naver.com/p/entry/place/13574619?c=14.94,0,0,0,dh)
 > #족발 #보쌈 
 
 ### 수유동
-- [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)
+- [석가갈비냉면 수유점](https://map.naver.com/v5/search/%EC%84%9D%EA%B0%80%EA%B0%88%EB%B9%84%EB%83%89%EB%A9%B4/place/18612795?c=10.59,0,0,0,dh&isCorrectAnswer=true)👍👍
 > #돼지갈비
 
 - [버거파크 수유점](https://map.naver.com/v5/entry/place/1532748458?c=13.36,0,0,0,dh&isCorrectAnswer=true)
@@ -199,8 +202,8 @@
 - [가메이](https://map.naver.com/v5/entry/place/37688208?c=18.11,0,0,0,dh)
 > #회덮밥
 
-- [맛사랑](https://map.naver.com/v5/search/%EB%A7%9B%EC%82%AC%EB%9E%91/place/36004062?c=15,0,0,0,dh&placePath=%3Fentry%253Dbmp)
-> #제육 #돈까스 #순두부 #생고기김치찌깨 #계란말이
+- [삼삼오오](https://map.naver.com/p/entry/place/1779318462?c=13.00,0,0,0,dh)
+> #제육 #생고기김치찌깨 #계란말이
 
 - [궁중보쌈](https://map.naver.com/v5/entry/place/623497804?c=18.4,0,0,0,dh)
 > #보쌈
@@ -226,4 +229,5 @@
 - [가마솥순대국](https://map.naver.com/p/search/%EC%88%9C%EB%8C%80%EA%B5%AD/place/1411804150?c=16.59,0,0,0,dh&placePath=%3Fentry%3Dbmp)
 > #순대국 #수육
 
-
+- [하하돈면](https://map.naver.com/p/search/%ED%95%98%ED%95%98%EB%8F%88%EB%A9%B4/place/1801858940?c=15.00,0,0,0,dh&isCorrectAnswer=true)👍
+> #돈까스 #치즈 
